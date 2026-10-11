@@ -1,0 +1,9 @@
+{
+  "name": "medieval-trivia",
+  "version": "1.0.0",
+  "description": "A medieval-styled trivia chatbot focused on geography",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "express": "^4.19.2" }
+}
